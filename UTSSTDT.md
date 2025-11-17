@@ -34,7 +34,7 @@ Keterkaitan dengan IPC
 - Efisiensi Jaringan: Karena klien hanya meminta bidang data yang mereka butuhkan (no over-fetching), ukuran payload respons dari Gateway ke klien menjadi sangat kecil. Ini membuat IPC antara klien dan gateway lebih efisien.
   
 - Gambar Diagramnya
-  ![Diagram menggunakan aplikasi DIA()
+  ![Diagram menggunakan aplikasi DIA(DiagramUTSSTDT.jpeg)
 
 ### 3. Dengan menggunakan Docker / Docker Compose, buatlah streaming replication di PostgreSQL yang bisa menjelaskan sinkronisasi tulislah langkah - langkah pengerjaanya dan buat penjelasan secukupnya
 Jawaban: 
