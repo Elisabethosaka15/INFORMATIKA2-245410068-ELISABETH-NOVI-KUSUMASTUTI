@@ -5,7 +5,7 @@
 ## Kelas : INFORMATIKA 2
 ## JAWABAN 
 1. Jelaskan teorema CAP dan BASE dan keterkaitan keduanya. Jelaskan menggunakan contoh yang pernah anda gunakan. 
-Jawaban: Teorema CAP adalah konsep fundamental dalam sistem terdistribusi yang menyatakan bahwa sistem data hanya dapat menjamin dua dari tiga properti berikut secara bersamaan: Consistency (Konsistensi), Availability (Ketersediaan), dan Partition Tolerance (Toleransi Partisi).
+   Jawaban: Teorema CAP adalah konsep fundamental dalam sistem terdistribusi yang menyatakan bahwa sistem data hanya dapat menjamin dua dari tiga properti berikut secara  bersamaan: Consistency (Konsistensi), Availability (Ketersediaan), dan Partition Tolerance (Toleransi Partisi).
 - Konsistensi (C): Berarti setiap operasi baca akan mengembalikan data terbaru. Semua node sistem harus melihat data yang sama pada waktu yang sama.
 - Ketersediaan (A): Berarti setiap permintaan non-gagal akan menerima respons (non-error) dari sistem, dan sistem selalu up dan merespons.
 - Toleransi Partisi (P): Berarti sistem tetap beroperasi meskipun terjadi kegagalan komunikasi (partisi jaringan) antara node-nya.
